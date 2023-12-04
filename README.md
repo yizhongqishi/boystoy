@@ -32,4 +32,4 @@ VS2019 MFC
 
 Arduino：ESP32，EloquentEsp32cam
 
-VS2019：OpenCV, 罗技方向盘SDK
+VS2019：OpenCV，罗技方向盘SDK
